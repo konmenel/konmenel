@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Constantinos Menelaou
 - 👀 I’m interested in Fluid Mechanics.
-- 🌱 I’m currently learning Julia, Fortran, C, C++.
 - 💞️ I’m looking to collaborate on anything I can.
 - 📫 How to reach me constantinos.menelaou@ucdconnect.ie
 
