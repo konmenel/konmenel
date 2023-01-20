@@ -1,6 +1,4 @@
-- 👋 Hi, I’m Constantinos Menelaou
-- 👀 I’m interested in Fluid Mechanics and Computational Fluid Dynamics.
-- How to reach me constantinos.menelaou@ucdconnect.ie
+You can reach me constantinos.menelaou@ucdconnect.ie
 
 <!---
 konmenel/konmenel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
